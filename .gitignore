@@ -1,0 +1,4 @@
+# Ignore dataset images
+/Model/Dataset/ISIC-images
+/Model/Dataset/Split
+/Model/Dataset.zip
