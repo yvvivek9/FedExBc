@@ -1,4 +1,7 @@
-# Ignore dataset images
-/Model/Dataset/ISIC-images
-/Model/Dataset/Split
-/Model/Dataset.zip
+# Ignore Intellij files
+/.idea
+# Ignore virtual env files
+/venv
+
+# Ignore Dataset Images
+*.jpg
